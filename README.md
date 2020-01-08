@@ -1,6 +1,6 @@
 # Graduate admission
 
-This project analysis Graduate Admission dataset from an Indian perspective. Main goal of this project is to predict admission chances for particular university. Several features are considered as important:
+This project analyzes Graduate Admission dataset from an Indian perspective. Main goal of this project is to predict admission chances for particular university. Several features are considered as important:
 
 1) GRE Scores  - 290 to 340
 2) TOEFL Scores - 92 to 120
